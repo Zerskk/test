@@ -2525,7 +2525,7 @@ relationship: part_of PO:0009005 ! root
 
 [Term]
 id: PO:0003003
-name: obsolete primary root elongation zone
+name:  obsolete primary root elongation zone
 namespace: plant_anatomy
 def: "OBSOLETE. A zone of small, densely cytoplasmic cells that are dividing and expanding in size located behind the zone of cell division in the primary root." [TAIR_curator:Katica_Ilic]
 comment: This term was made obsolete because the definition was not correct. A new term with the same name and correct definitions was created to replace it.
