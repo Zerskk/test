@@ -8,7 +8,7 @@ default-namespace:NFDI4NFDI4PSO
 remark: coverage: Missing Terms for the DataPLANT end-point repository templates
 remark: creator: Dominik Brilhaus <dominik.brilhaus<-at->hhu.de>
 remark: creator: Hajira Jabeen <hajira.jabeen<-at->uni-koeln.de>
-ontology: nfdi4pso2
+ontology: nfdi4pso
 
 [Term] 
 id: NFDI4PSO:0000001
